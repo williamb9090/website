@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.js": "/website/static/js/main.03c6a3a8.chunk.js",
-    "main.js.map": "/website/static/js/main.03c6a3a8.chunk.js.map",
+    "main.js": "/website/static/js/main.2c0ea0a7.chunk.js",
+    "main.js.map": "/website/static/js/main.2c0ea0a7.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.9b825fe6.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.9b825fe6.js.map",
-    "static/js/2.f9ca603b.chunk.js": "/website/static/js/2.f9ca603b.chunk.js",
-    "static/js/2.f9ca603b.chunk.js.map": "/website/static/js/2.f9ca603b.chunk.js.map",
+    "static/css/2.087617cf.chunk.css": "/website/static/css/2.087617cf.chunk.css",
+    "static/js/2.e0fe5170.chunk.js": "/website/static/js/2.e0fe5170.chunk.js",
+    "static/js/2.e0fe5170.chunk.js.map": "/website/static/js/2.e0fe5170.chunk.js.map",
     "index.html": "/website/index.html",
-    "precache-manifest.804ff664c843264671ae7e7700237489.js": "/website/precache-manifest.804ff664c843264671ae7e7700237489.js",
+    "precache-manifest.c839bb45e7eb6e5578ec7b24df3fbe88.js": "/website/precache-manifest.c839bb45e7eb6e5578ec7b24df3fbe88.js",
     "service-worker.js": "/website/service-worker.js",
-    "static/js/2.f9ca603b.chunk.js.LICENSE.txt": "/website/static/js/2.f9ca603b.chunk.js.LICENSE.txt"
+    "static/css/2.087617cf.chunk.css.map": "/website/static/css/2.087617cf.chunk.css.map",
+    "static/js/2.e0fe5170.chunk.js.LICENSE.txt": "/website/static/js/2.e0fe5170.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/website/static/media/catamaran-tamil-400-normal.32c82b11.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.9b825fe6.js",
-    "static/js/2.f9ca603b.chunk.js",
-    "static/js/main.03c6a3a8.chunk.js"
+    "static/css/2.087617cf.chunk.css",
+    "static/js/2.e0fe5170.chunk.js",
+    "static/js/main.2c0ea0a7.chunk.js"
   ]
 }
