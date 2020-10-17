@@ -6,6 +6,7 @@ import makeStyles from '@material-ui/styles/makeStyles'
 import {Paper} from '@material-ui/core'
 import {light, dark} from './theme.js'
 import useMediaQuery from '@material-ui/core/useMediaQuery'
+import "fontsource-catamaran"
 
 
 
@@ -26,7 +27,7 @@ function App() {
   return (
     <ThemeProvider theme={darkMode ? dark : light}>
       <div className={classes.page}>
-        
+        <Typography style={{fontFamily: 'catamaran'}, {color: "#B0D7FF"}, {fontSize: 75}, {textAlign: "center"}}>Will Baron</Typography>
       </div>
     </ThemeProvider>
   );
